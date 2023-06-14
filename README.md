@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krithikaa04&label=Profile%20views&color=0e75b6&style=flat" alt="krithikaa04" /> </p>
 
-- 🔭 I'm currently interning as **a Machine learning engineer**
+- 🔭 I'm currently working on **Reinforcement learning concepts**
 
 - 🌱 I’m currently focusing on **Data Structures and Algorithms and Frontend Web Development.**
 
