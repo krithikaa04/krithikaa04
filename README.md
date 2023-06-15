@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **krithikalakshman0401@gmail.com**
 
-- ⚡ Fun fact : **In my free time, you'll find me capturing pretty skies :)**
+- ⚡Fun fact : **In my free time, you'll find me capturing pretty skies :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
