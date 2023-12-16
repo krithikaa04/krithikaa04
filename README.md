@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on **Reinforcement learning concepts**
 
-- 🌱 I’m currently focusing on **Data Structures and Algorithms and Frontend Web Development.**
+- 🌱 I’m currently focusing on **Deep learning algorithms.**
 
 - 📫 How to reach me : **krithikalakshman0401@gmail.com**
 
